@@ -1,3 +1,9 @@
+# Stone: A Blockchain Privacy Language
+
+Working...
+
+Following is the descriptio for zkay.
+
 # zkay: A Blockchain Privacy Language
 
 Zkay (pronounced as `[zi: keɪ]`) is a programming language which enables automatic compilation of intuitive data privacy specifications to Ethereum smart contracts leveraging encryption and non-interactive zero-knowledge (NIZK) proofs. This repository provides a toolchain for compiling, deploying and using zkay contracts.
